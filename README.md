@@ -12,7 +12,7 @@ It aligns with **SDG 3 (Good Health and Well-being)** by encouraging better eati
 
 ---
 
-## 💻 App Interface
+## App Interface
 
 The interface is designed with a "Convenience-Centric" approach, ensuring a seamless experience across web and mobile devices.
 
@@ -38,18 +38,18 @@ The interface is designed with a "Convenience-Centric" approach, ensuring a seam
 
 ---
 
-## ⚡ Key Features
+## Key Features
 
-* **🔍 Ingredient-Based Search:** Input pantry items to find matching recipes immediately.
-* **🥗 Halal-Compliant:** All recipes strictly follow Islamic dietary laws.
-* **💾 Favorites System:** Users can save recipes to their profile for quick access later.
-* **✏️ CRUD Operations:** Full capability to Create, Read, Update, and Delete recipe submissions.
-* **📷 Image Uploads:** Visual support for recipes to enhance the user experience.
-* **📱 Responsive Design:** Built with Bootstrap to function perfectly on desktops, tablets, and mobile phones.
+* **Ingredient-Based Search:** Input pantry items to find matching recipes immediately.
+* **Halal-Compliant:** All recipes strictly follow Islamic dietary laws.
+* **Favorites System:** Users can save recipes to their profile for quick access later.
+* **CRUD Operations:** Full capability to Create, Read, Update, and Delete recipe submissions.
+* **Image Uploads:** Visual support for recipes to enhance the user experience.
+* **Responsive Design:** Built with Bootstrap to function perfectly on desktops, tablets, and mobile phones.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 This project follows the **MVC (Model-View-Controller)** architecture.
 
@@ -61,7 +61,7 @@ This project follows the **MVC (Model-View-Controller)** architecture.
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 **IIUM - INFO 3305 Web Application Development (Section 03, Group 2)**
 
